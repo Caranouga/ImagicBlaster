@@ -1,0 +1,6 @@
+name: ImagicBlasters
+version: '${project.version}'
+main: fr.caranouga.imagicblasters.Imagicblasters
+api-version: 1.17
+authors: [ Caranouga ]
+description: The plugins for the blasters of Buzz Lightneer
